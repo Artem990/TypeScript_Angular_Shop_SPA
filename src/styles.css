@@ -1,0 +1,19 @@
+.cart-item {
+    font-size: small;
+}
+
+.filter {
+    font-size: small;
+}
+
+.card, .form-control, .btn, .list-group {
+    border-radius: 0.02rem;
+}
+
+.card-text {
+    font-size: 0.8rem;
+}
+
+.product-btn {
+    font-size: 0.85rem;
+}
